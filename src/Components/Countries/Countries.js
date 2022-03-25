@@ -10,7 +10,7 @@ const Countries = () => {
     }, [])
     return (
         <div >
-            <h2>Welcome to another countries file! </h2>
+            <h2>Welcome to World of Countries!! </h2>
             <h5>Availabe Country: {countries.length}</h5>
             <div className='grid-container'>
                 {
